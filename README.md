@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on just about anything, with full stack expertise and vast computer libraries, there is no worthy job I would turn down assisting.
 
-- 🤔 Make no mistake, this is the era of robotics. Technology revolutionize communities and individuals across the globe, daily. I am documenting my process of bringing technology, knowledge and connection to communities everywhere, with the aim of improving quality of life across the globe. More information on my projects and involvement can be found at my website listed below. 
+- 🤔 Make no mistake, this is the era of robotics. Technology revolutionizes communities and individuals across the globe, daily. I am documenting my process of bringing technology, knowledge and connection to communities everywhere, with the aim of improving quality of life across the globe. More information on my projects and involvement can be found at my website listed below. 
 
 - 🔬Some of the tools I am working with now that I think you should check out are:
 
