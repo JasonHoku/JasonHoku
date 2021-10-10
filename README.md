@@ -5,19 +5,12 @@
 - 🔬 Some of the tools I am working with now that I think you should check out are:
 
 NPM, THE Javascript Library --> https://www.npmjs.com/
-
 Ubuntu, Linux OS for building computers, technology and more --> https://ubuntu.com/
 
 - 💬 Ask me about my goals in Hawaii, I'm born and raised here.
 
-- 💻 Some of my current work includes:
-
- Hawaiian software company: https://MicroHawaii.com/
- Hawaiian sustainable data utility: http://PonoMap.com/
+- Check out my hawaiian software architecture company: https://MicroHawaii.com/
 
 - 📫 How to reach me: hoku@microhawaii.com
 
 - ⚡ If you can convince me of it's importance, I'm sure I can open my mind to your ideas.
-
-
-Thank you!
