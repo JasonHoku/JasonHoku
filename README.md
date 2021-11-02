@@ -11,7 +11,7 @@
 
 ## 🔬 Some of the tools I am working with now that I think you should check out are:
 
-### NodeJS: The worlds choice of programming environments. https://nodejs.org/en/download/
+### NodeJS: The worlds choice of programming environment.  https://nodejs.org/en/download/
 
 ### Google Firebase: The best prices around for hosting web & software applications. https://firebase.google.com/
 
