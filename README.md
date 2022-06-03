@@ -21,7 +21,7 @@
 
 
 
-## ⚡ If you're a NodeJS developer, you might be interested in some of my projects:
+## ⚡ Check out some of my open-source projects:
 
 ### MicroHawaii: My company website, an open-source design resource built with Google Firebase, React & NodeJS https://github.com/JasonHoku/MicroHawaii
 
