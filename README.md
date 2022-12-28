@@ -24,3 +24,5 @@
 - 💬 Ask me about my goals in Hawaii, I'm born and raised here. And check out my hawaiian software architecture company: https://MicroHawaii.com/ which I've designed myself and would love feedback on.
 
 - 📫 Reach me at hoku@microhawaii.com
+
+Support my efforts: https://ko-fi.com/jasonhoku
