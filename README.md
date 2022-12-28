@@ -9,18 +9,6 @@
 &nbsp;
 
 
-## 🔬 Some of the tools I am working with now that I think you should check out are:
-
-### NodeJS: The worlds choice of programming environment.  https://nodejs.org/en/download/
-
-### Google Firebase: The best prices around for hosting web & software applications. https://firebase.google.com/
-
-### Blender: Free & open-source 3D design software, for building animations and artwork.  https://www.blender.org/
-##
-&nbsp;
-
-
-
 ## ⚡ Check out some of my open-source projects:
 
 ### MicroHawaii: My company website, an open-source design resource built with Google Firebase, React & NodeJS https://github.com/JasonHoku/MicroHawaii
